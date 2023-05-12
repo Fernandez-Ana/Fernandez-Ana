@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **node.js.**
 
-- 📫 How to reach me: **anafern2023@gmail.com**
+- 📫 How to reach me: **ana.fernandez@outlook.de**
 
 - ⚡ Fun fact: **Computer “bug” was inspired by a real insect 🪲**
 
