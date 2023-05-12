@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-fernandez-01804026b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-fernandez-01804026b/" height="30" width="40" /></a>
-  <a href="https://www.xing.com/profile/Ana_Fernandez138/cv" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/xing/xing-tile.svg" alt="https://www.xing.com/profile/Ana_Fernandez138/cv" height="30" width="40" /></a>
+  <a href="https://www.xing.com/profile/Ana_Fernandez138/cv" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/xing/xing-icon.svg" alt="https://www.xing.com/profile/Ana_Fernandez138/cv" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
