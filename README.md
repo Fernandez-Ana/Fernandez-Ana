@@ -3,13 +3,11 @@
 
 <h3> Welcome to my site 🙂 </h3>
 
-<h3>I'm a junior full stack developer in training.</h3>
+<h3>I'm a junior full stack developer</h3>
 
 
 
 - 🔭 I’m currently working on **my skills.**
-
-- 🌱 I’m currently learning **express.js & mongoDB.**
 
 - 📫 How to reach me: **ana.fernandez@outlook.de**
 
