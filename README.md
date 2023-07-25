@@ -3,7 +3,7 @@
 
 <h3> Welcome to my site 🙂 </h3>
 
-<h3>I'm a junior full stack developer</h3>
+<h3>I'm a junior full stack developer and looking for a job 😉</h3>
 
 
 
