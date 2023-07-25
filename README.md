@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **ana.fernandez@outlook.de**
 
-- ⚡ Fun fact: **Computer “bug” was inspired by a real insect 🪲**
+- ⚡ Fun fact: **Computer “bug” was inspired by a real insect 🐞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
