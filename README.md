@@ -6,7 +6,6 @@
 <h3>I'm a junior full stack developer and looking for a job 😉</h3>
 
 
-
 - 🔭 I’m currently working on **my skills.**
 
 - 📫 How to reach me: **ana.fernandez@outlook.de**
