@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact: **Computer “bug” was inspired by a real insect 🐞**
 
+
+**SLEEP - EAT - CODE - REPEAT**
 <div style="width:50%;height:0;padding-bottom:56%;position:relative;"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN5bXhtazUzcW9yNG51b3F5NDVlZzhnOXBsazU3bTd4dDR1NTZvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width="70%" height="70%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 
 <h3 align="left">Connect with me:</h3>
