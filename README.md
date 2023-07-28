@@ -14,7 +14,6 @@
 - ⚡ Fun fact: **Computer “bug” was inspired by a real insect 🐞**
 
 <iframe src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
